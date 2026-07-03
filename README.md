@@ -55,7 +55,7 @@ Para garantizar la estabilidad de `NameMC-Capture.js` y evitar bloqueos de permi
 ## 🧰 Más herramientas (Ecosistema SkinsArts)
 
 - 🎨 **[SkinsArts-Studio](https://github.com/srbrop/SkinsArts-Studio):** Si quieres generar, editar y previsualizar fácilmente artes de 27 piezas de Minecraft para NameMC, ¡utiliza esta poderosa suite web! *(Nota: Repositorio en inglés)*
-- 🤖 **[AutoSkinNameMC](https://github.com/srbrop/AutoSkinNameMC):** Si quieres automatizar la subida de las 27 skins en menos de 8 minutos, ¡utiliza esta extensión!
+- 🤖 **[Auto-Skin-NameMC](https://github.com/srbrop/Auto-Skin-NameMC/tree/main):** Si quieres automatizar la subida de las 27 skins en menos de 8 minutos, ¡utiliza esta extensión!
 
 ---
 
