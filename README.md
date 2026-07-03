@@ -39,9 +39,13 @@ Para garantizar la estabilidad de `NameMC-Capture.js` y evitar bloqueos de permi
  ```
 (Espera pacientemente a que finalice la descarga del navegador interno y vuelva a aparecer la línea de comandos de tu ruta).
 ### ⚡ Ejecución del ScriptA diferencia de la herramienta [**AutoSkinNameMC**](https://github.com/srbrop/AutoSkinNameMC), este script funciona de forma completamente independiente y no requiere que configures tu navegador personal. Una vez que tu entorno y carpeta estén preparados:  
-## 1. Regresa a la ventana negra del CMD y activa el script con el siguiente comando:
+## 1. Regresa a la ventana negra del CMD y activa el script con el siguiente comando (Ingles):
   ```bash
   node NameMC-Capture.js
+ ```
+script (Español)
+  ```bash
+  node NameMC-Captura.js
  ```
 ## 2. Suelta el ratón y el teclado por completo. El script tomará el control, abrirá su propio navegador invisible y empezará a realizar la secuencia de forma automática. 
 ### ⏱️ Comportamiento del proceso:
