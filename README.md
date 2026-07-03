@@ -24,6 +24,7 @@ Para garantizar la estabilidad de `NameMC-Capture.js` y evitar bloqueos de permi
 2. Descarga el archivo `NameMC-Capture.js` de este repositorio y mételo en esa nueva carpeta.
 3. Haz clic derecho en el archivo `NameMC-Capture.js`, ábrelo con el Bloc de notas (o tu editor de código preferido), y cambia el nombre de usuario en la **Línea 6** por tu propio usuario de NameMC. Guarda el archivo.
    - Ejemplo: `const username = 'TuUsuarioAqui';`
+<img width="804" height="340" alt="Image" src="https://github.com/user-attachments/assets/f2b9a528-eb88-48b5-877c-29eeb4d9e3cd" />
 
 ### Paso 3: Instalar Dependencias mediante CMD
 1. Entra a la carpeta que creaste (donde ahora tienes el archivo `.js`).
