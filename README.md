@@ -56,6 +56,10 @@ script (Español)
 * Escudo anti-errores: El bot intercepta y bloquea los anuncios de forma nativa para que la estructura de la página no se mueva, asegurando que tu captura de pantalla quede siempre perfectamente alineada.
 
 ---
+
+### ❤️ Apoya el Proyecto
+Este script fue desarrollado con dedicación para expandir las capacidades artísticas de la comunidad de Minecraft. Si esta extensión automatizada te ahorró tiempo y capturó tu perfil a la perfección, ¡apoya nuestro ecosistema de herramientas
+---
 ## 🧰 Más herramientas (Ecosistema SkinsArts)
 
 - 🎨 **[SkinsArts-Studio](https://github.com/srbrop/SkinsArts-Studio):** Si quieres generar, editar y previsualizar fácilmente artes de 27 piezas de Minecraft para NameMC, ¡utiliza esta poderosa suite web! *(Nota: Repositorio en inglés)*
@@ -63,8 +67,6 @@ script (Español)
 
 ---
 
-### ❤️ Apoya el Proyecto
-Este script fue desarrollado con dedicación para expandir las capacidades artísticas de la comunidad de Minecraft. Si esta extensión automatizada te ahorró tiempo y capturó tu perfil a la perfección, ¡apoya nuestro ecosistema de herramientas
 
 ### 🌟  Deja una estrella en este repositorio de GitHub.
 
